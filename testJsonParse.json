@@ -1,0 +1,27 @@
+{
+    "author": {
+        "name": "Foo Barington",
+        "email": "foo@barington.com",
+        "password": "TJREWKGNERKNGKN#KNREKGNG@NKGN#KNB"
+    },
+    "content": {
+        "title": "Foo.",
+        "body": "ksdajfks fksdlfj klsdjf lksjfajsdflkjds alkfj asdlkjfds fin"
+    },
+    "comments": [
+        {
+            "author": {
+                "name": {
+                    "name": "Foo Barington",
+                    "email": "foo@barington.com",
+                    "password": "TJREWKGNERKNGKN#KNREKGNG@NKGN#KNB"
+                },
+                "email": "foo@barington.com",
+                "password": "TJREWKGNERKNGKN#KNREKGNG@NKGN#KNB"
+            },
+            "email": "some@hfjsadiajdhf.com",
+            "password": "fsdjklaghkdashgkhsdakjghghkjasd",
+            "comment": "hflukjghlshifs!"
+        }
+    ]
+}
